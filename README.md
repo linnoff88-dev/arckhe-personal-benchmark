@@ -3,7 +3,7 @@
 ## �Y"- Guia de uso
 
 Guia completo com visêo geral e passo a passo:
-**https://inematds.github.io/personal-benchmark/guia/**
+**https://linnoff88-dev.github.io/arckhe-/guia/**
 
 Stop asking "have you tried the new model?" Your own Claude Code history is the only
 benchmark that matters: the tasks you actually do, judged by the standards you actually
