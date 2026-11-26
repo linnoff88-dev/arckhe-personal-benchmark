@@ -1,8 +1,8 @@
-﻿# /benchmark, Your History Is Your Benchmark
+?# /benchmark, Your History Is Your Benchmark
 
-## ðŸ“– Guia de uso
+## �Y"- Guia de uso
 
-Guia completo com visÃ£o geral e passo a passo:
+Guia completo com visêo geral e passo a passo:
 **https://inematds.github.io/personal-benchmark/guia/**
 
 Stop asking "have you tried the new model?" Your own Claude Code history is the only
@@ -151,4 +151,4 @@ Built by Mark Kashef ([Early AI-dopters](https://www.skool.com/earlyaidopters/ab
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto  - ARCKHÉe
